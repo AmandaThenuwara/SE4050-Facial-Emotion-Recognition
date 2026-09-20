@@ -1,0 +1,2 @@
+Model,Configuration,Test Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Macro ROC-AUC
+EfficientNetB0,Fine-Tuned Last 30 Layers,0.581499,0.566634,0.503663,0.510507,0.569867,0.877702
