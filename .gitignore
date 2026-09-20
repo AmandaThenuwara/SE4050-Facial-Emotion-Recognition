@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local FER-2013 dataset
+data/
+
 # Distribution / packaging
 .Python
 build/
