@@ -212,6 +212,10 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+*.keras
+*.h5
+*.hdf5
 __marimo__/
 
 # Streamlit
