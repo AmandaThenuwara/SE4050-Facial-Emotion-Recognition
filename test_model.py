@@ -11,7 +11,7 @@ from src.face_detector import detect_and_crop_face
 # ============================================================
 
 MODEL_PATH = "models/resnet50/resnet50_fer2013_final.keras"
-ORIGINAL_IMAGE_PATH = "test_images/test_face.jpg"
+ORIGINAL_IMAGE_PATH = "test_images/test_face1.jpg"
 
 
 # ============================================================
