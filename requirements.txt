@@ -1,1 +1,4 @@
 streamlit
+opencv-python==4.11.0.86python src/vgg16/test_face_detection.py "img/garfield_test.jpg"
+streamlit-webrtc
+av
