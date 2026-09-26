@@ -230,10 +230,3 @@ state.
 -   OpenCV
 -   FER-2013
 
-## Component Information
-
-**Module:** SE4050 -- Deep Learning\
-**Component:** EfficientNetB0 Facial Emotion Recognition\
-**Student ID:** IT23193772\
-**Model:** EfficientNetB0\
-**Dataset:** FER-2013
