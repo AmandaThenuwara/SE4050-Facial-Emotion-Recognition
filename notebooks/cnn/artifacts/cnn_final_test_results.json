@@ -16,5 +16,9 @@
     "neutral",
     "sad",
     "surprise"
-  ]
+  ],
+  "macro_roc_auc": 0.8209745565001472,
+  "macro_roc_auc_percent": 82.09745565001472,
+  "weighted_roc_auc": 0.8280315217160882,
+  "weighted_roc_auc_percent": 82.80315217160882
 }
