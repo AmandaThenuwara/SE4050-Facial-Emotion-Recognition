@@ -1,0 +1,20 @@
+{
+  "model_name": "FER2013_Custom_CNN",
+  "test_loss": 1.28079354763031,
+  "test_accuracy": 0.5114237666130066,
+  "test_accuracy_percent": 51.14237666130066,
+  "macro_precision": 0.41919613333192,
+  "macro_recall": 0.4221381312085396,
+  "macro_f1": 0.4068567842589003,
+  "weighted_f1": 0.4883748058672074,
+  "test_images": 7178,
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ]
+}

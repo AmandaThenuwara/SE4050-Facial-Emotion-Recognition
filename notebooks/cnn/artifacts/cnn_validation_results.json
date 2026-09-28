@@ -1,0 +1,28 @@
+{
+  "model_name": "FER2013_Custom_CNN",
+  "total_params": 110759,
+  "trainable_params": 110311,
+  "non_trainable_params": 448,
+  "epochs_completed": 30,
+  "validation_loss": 1.2815746068954468,
+  "validation_accuracy": 0.5162863731384277,
+  "validation_accuracy_percent": 51.62863731384277,
+  "seed": 42,
+  "validation_split": 0.2,
+  "image_size": [
+    48,
+    48
+  ],
+  "batch_size": 32,
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "train_manifest_sha256": "d23f07844da0da6a71d73063069140c1eecbc21fd32b88b4919f8d8e0189005c",
+  "validation_manifest_sha256": "8e1ac3237db28515a7f4e32abeec51c60e5408732d6375f24a476620ea28cd7d"
+}
