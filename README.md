@@ -32,7 +32,7 @@ This project uses the **FER-2013 (Facial Expression Recognition 2013) dataset**.
 
 **Kaggle – FER-2013**
 
-https://www.kaggle.com/datasets/msambare/fer2013?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/msambare/fer2013?
 
 ### Dataset Characteristics
 
