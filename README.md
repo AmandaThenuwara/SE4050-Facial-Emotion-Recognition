@@ -234,24 +234,4 @@ The experiments demonstrate differences in performance and training behaviour ac
 
 ---
 
-# Contributors
 
-| Student | Student ID | Model |
-|---|---|---|
-| A.A. Thenuwara | IT23155848 | ResNet50 |
-| W.M.C.S. Wijesundara | IT23175266 | Custom CNN |
-| M.H.M.L.D. Herath | IT23220560 | VGG16 |
-| K.K.G.S. Biseka | IT23193772 | EfficientNetB0 |
-
----
-
-## Module
-
-**SE4050 – Deep Learning**  
-Sri Lanka Institute of Information Technology (SLIIT)
-
----
-
-## Purpose
-
-This repository was developed for academic purposes as part of the SE4050 Deep Learning group assignment. It demonstrates the implementation, evaluation, and comparison of multiple deep-learning architectures for facial emotion recognition using FER-2013.
