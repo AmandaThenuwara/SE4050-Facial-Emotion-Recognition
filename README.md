@@ -46,23 +46,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 The dataset should be downloaded separately from Kaggle and placed in the appropriate project directory before running the training notebooks.
 
-> **Note:** The FER-2013 dataset is not included directly in this repository due to its size and dataset distribution requirements.
-## Dataset
-
-This project uses the **FER-2013 dataset**.
-
-Dataset characteristics:
-
-- Total images: 35,887
-- Training images: 28,709
-- Test images: 7,178
-- Original image size: 48 × 48
-- Number of classes: 7
-
-The dataset should be downloaded separately and placed in the appropriate project directory before training.
-
----
-
 ## Project Structure
 
 ```text
