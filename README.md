@@ -24,7 +24,29 @@ The models classify facial expressions into seven emotion categories:
 - Surprise
 
 ---
+## Dataset
 
+This project uses the **FER-2013 (Facial Expression Recognition 2013) dataset**.
+
+### Dataset Link
+
+**Kaggle – Challenges in Representation Learning: Facial Expression Recognition Challenge**
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+### Dataset Characteristics
+
+- Total images: 35,887
+- Training images: 28,709
+- Test images: 7,178
+- Original image size: 48 × 48 pixels
+- Image type: Grayscale
+- Number of classes: 7
+- Classes: Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise
+
+The dataset should be downloaded separately from Kaggle and placed in the appropriate project directory before running the training notebooks.
+
+> **Note:** The FER-2013 dataset is not included directly in this repository due to its size and dataset distribution requirements.
 ## Dataset
 
 This project uses the **FER-2013 dataset**.
