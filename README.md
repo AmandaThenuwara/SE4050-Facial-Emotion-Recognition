@@ -30,9 +30,9 @@ This project uses the **FER-2013 (Facial Expression Recognition 2013) dataset**.
 
 ### Dataset Link
 
-**Kaggle – Challenges in Representation Learning: Facial Expression Recognition Challenge**
+**Kaggle – FER-2013**
 
-https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+https://www.kaggle.com/datasets/msambare/fer2013?utm_source=chatgpt.com
 
 ### Dataset Characteristics
 
